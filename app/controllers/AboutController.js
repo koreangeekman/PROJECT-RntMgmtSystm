@@ -1,4 +1,3 @@
-import { Pop } from "../utils/Pop.js"
 
 // Public
 export class AboutController {
